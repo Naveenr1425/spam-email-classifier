@@ -15,6 +15,10 @@ This project detects spam messages using Machine Learning.
 pip install -r requirements.txt
 python spam_model.py
 
-##Example
+##Example-1
 Input: Win ₹5000 now!!!
 Output: SPAM 🚨
+
+##Example-2
+Input: Hello bro  
+Output: NOT SPAM ✅  
